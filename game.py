@@ -189,5 +189,5 @@ while running :
    
     update_snake += 1
     pygame.display.update()
-
+#kidding
 pygame.quit()
