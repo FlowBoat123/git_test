@@ -51,6 +51,7 @@ snake_pos.append([width // 2,height // 2 + cell_size * 3])
 food_size = 10
 new_food = True
 food_pos = [0,0]
+navi = (50,200,200)
 img_food = pygame.image.load("food.png")
 img_food = pygame.transform.scale(img_food,(70,70))
 
